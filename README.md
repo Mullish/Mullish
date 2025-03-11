@@ -1,3 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Julia</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data scientist from Russia 🇷🇺</h3>
+# Hi there, I'm [Julia] <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+
+### Data scientist from Russia
+
+# I'm data analyst skilled in PySpark-based ETL, data warehousing, and statistical analysis. Proficient in data preprocessing, EDA and feature engineering
