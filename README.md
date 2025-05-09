@@ -107,7 +107,7 @@
       <td>4</td>
       <td>Классическое руководство по проектированию DWH. The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition</td>
       <td>Ральф Кимбалл</td>
-      <td></td>
+      <td>2013</td>
       <td>▶️</td>
     </tr>
     <tr>
