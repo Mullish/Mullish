@@ -1,15 +1,10 @@
 <h1 align="center">Привет! Welcome on board</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://niltechedu.com/blog/wp-content/uploads/2021/11/python-programming-language.png" alt="Логотип Python" width="50">
-<img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" alt="Логотип Numpy" width="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Логотип Pandas" width="50">
-
-
 <h2>Стек</h2>
 
 <p>
-  <img src="images/python.png" alt="Python" width="80">
+  <img src="https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python" width="80">
   <img src="images/pycharm.png" alt="PyCharm" width="80">
   <img src="images/numpy.png" alt="NumPy" width="80">
   <img src="images/pandas.png" alt="Pandas" width="80">
