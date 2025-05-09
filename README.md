@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Julia</a> 
+<h1 align="center">Привет!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Data scientist from Russia</h3>
+
+<img src="https://www.fullstackpython.com/img/logos/py.png" alt="Python">
 
 <h2>Образование 🎓</h2>
 
