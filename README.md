@@ -1,7 +1,9 @@
-<h1 align="center">Привет!</a> 
+<h1 align="center">Привет! Welcome on board</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://www.fullstackpython.com/img/logos/py.png" alt="Python">
+<img src="https://niltechedu.com/blog/wp-content/uploads/2021/11/python-programming-language.png" alt="Логотип Python" width="50">
+<img src="https://user-images.githubusercontent.com/50221806/86498208-af4bfe00-bd39-11ea-88fa-c747ae0ddd85.png" alt="Логотип Numpy" width="50">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s" alt="Логотип Pandas" width="50">
 
 <h2>Образование 🎓</h2>
 
