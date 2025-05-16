@@ -1,5 +1,4 @@
 <h1 align="center">Привет! Welcome on board</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>Стек 🛠</h2>
 
